@@ -1,4 +1,3 @@
-# 100days_of_Javascript
-*****Day 3*****
+DAY 3
 OTP generator LIVE
 https://sreeman16.github.io/OTP-Generator/
